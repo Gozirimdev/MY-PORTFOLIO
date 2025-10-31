@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import { IoLogoGithub } from "react-icons/io";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { IoLogoTwitter } from "react-icons/io5";
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser'
 
 
 const Connect: React.FC = () => {
